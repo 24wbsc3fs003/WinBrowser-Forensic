@@ -1,0 +1,17 @@
+v2.3.0 UI enhancement
+- Redesigned sidebar/navigation rail.
+- Added active-page state and section hierarchy.
+- Added navigation search and scroll container.
+- Added active-case context card in sidebar.
+- Reset sidebar case context when the active case is closed.
+- Preserved all existing forensic functionality and PDF reporting.
+\n2.3.1 - Academic Attribution Footer\n- Added persistent footer to the main workbench.\n- Footer displays developer, supervisor, department and university attribution.\n- Styled to match the ash/graphite professional UI.\nEOF
+
+2.3.1 - Academic Attribution Footer
+- Added persistent footer to the main workbench.
+- Footer displays developer, supervisor, department and university attribution.
+- Styled to match the ash/graphite professional UI.
+2.4.0 - Acquisition Scope Control
+- Added Entire Available Data and Date & Time Range acquisition options.
+- Added start/end date-time selectors and validation.
+- Persisted acquisition scope metadata and surfaced it in acquisition history and reports.
